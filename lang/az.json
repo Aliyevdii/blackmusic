@@ -17,9 +17,9 @@
     "unmuted": "🔈 | **Səssizdən açıldı!**",
     "leaveVC": "⏹ | **Video Çatdan Qaldı!**",
     "queueEmpty": "⏺ | **Növbə Boşdur!**",
-    "queueExported": "✅ | **%d İxrac edilən mahnılar!**",
-    "queueImported": "✅ | **%d Mahnılar idxal edildi!**",
-    "replyToAFile": "👀 | **Müsiqi/Videoya cavab verin!**",
-    "addedToQueue": "➕ | **[%s](%s) Vəziyyətində Növbədədir %d**!",
-    "helpText": "🤖 **Mövcut Əmirlər:**\n\n• <prefix>ping\n- `Botun sürətini yoxlayar`\n\n• <prefix>play\n- `İslədiyniz mahnıyı ifa edər`\n\n• <prefix>stop\n- `Mövcut mahnıyı dayandırar`\n\n• <prefix>skip\n- `Növbəti mahnıya keçid edər`\n\n© **💭Söhbət Gurupmuz : @Cat_House_Gurups | ⚕️Support Kanal : @BLACK_MMC | 👨🏻‍💻Owner : @A_l_i_y_e_v_d_i**"
+    "queueExported": "✅ | **%d Songs Exported!**",
+    "queueImported": "✅ | **%d Songs Imported!**",
+    "replyToAFile": "👀 | **Reply To An Audio/Video!**",
+    "addedToQueue": "➕ | **[%s](%s) Is Queued In Position %d**!",
+    "helpText": "🤖 **Mövcut əmirlər:**\n\n• <prefix>ping\n- `botun sürətini yoxlayın`\n\n• <prefix>start | <prefix>help\n- `əmrlər üçün yardım göstərin`\n\n• <prefix>mode | <prefix>switch\n- `axın rejimini dəyişdirin (audio/video)`\n\n• <prefix>p | <prefix>play [song name | youtube link]\n- `vc-də mahnı ifa edin, əgər artıq ifa olunursa, növbəyə əlavə edin`\n\n• <prefix>radio | <prefix>stream [radio url | stream link]\n- `vc-də canlı yayım oynayın, əgər artıq oynayırsınızsa, növbəyə əlavə edin`\n\n• <prefix>pl | <prefix>playlist [youtube playlist link]\n- `bütün youtube pleylistini bir anda oynayın`\n\n• <prefix>skip | <prefix>next\n- `növbəti mahnıya keçin`\n\n• <prefix>m | <prefix>mute\n- `cari axını susdurun`\n\n• <prefix>um | <prefix>unmute\n- `səssiz axını açınm`\n\n• <prefix>ps | <prefix>pause\n- `cari axını dayandırınm`\n\n• <prefix>rs | <prefix>resume\n- `dayandırılmış axını davam etdirin`\n\n• <prefix>list | <prefix>queue\n- `növbədəki mahnıları göstərin`\n\n• <prefix>mix | <prefix>shuffle\n- `növbəyə alınmış çalğı siyahısını qarışdırın`\n\n• <prefix>loop | <prefix>repeat\n- `döngə rejimini aktivləşdirin və ya söndürün`\n\n• <prefix>ip | <prefix>import\n- `ixracdan idxal növbəsi file`\n\n• <prefix>ep | <prefix>export\n- `gələcəkdə idxal üçün növbəni ixrac edin`\n\n• <prefix>stop | <prefix>leave\n- `vc-dən çıxın və növbəni təmizləyin`\n\n© **💭Söhbət Gurupmuz : @Cat_House_Gurups | ⚕️Support Kanalı : @BLACK_MMC | 👨🏻‍💻Owner : A_l_i_y_e_v_d_i**"
 }
