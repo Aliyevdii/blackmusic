@@ -1,15 +1,15 @@
 {
-    "downloading": "🔄 | **Yüklənir...**",
-    "errorMessage": "❌ | **Xəta baş verdi🙄!**",
-    "invalidFile": "❌ | **Yanlış Komanda/Fayl🙄!**",
+    "downloading": "⚡**",
+    "errorMessage": "❌ | **Xəta baş verdi!**",
+    "invalidFile": "❌ | **Yanlış Komanda/Fayl!**",
     "langSet": "🗣 | **Dil Quraşdırıldı `%s`!**",
-    "loopOff": "🔂 | **Musiqi Dayandırıldı😒!**",
-    "loopOn": "🔂 | **Musiqi Yenidən işə salındı🤓!**",
+    "loopOff": "🔂 | **Musiqi Dayandırıldı!**",
+    "loopOn": "🔂 | **Musiqi Yenidən işə salındı!**",
     "audioMode": "🎧 | **Musiqi Rejim Aktivdir!**",
     "videoMode": "🎥 | **Video Rejimi Aktivdir!**",
-    "notFound": "❌ | **İsdədiyniz bəstə tapılmadı, Yenidən cəhd edin☹️!**",
+    "notFound": "❌ | **İsdədiyniz bəstə tapılmadı, Yenidən cəhd edin!**",
     "notActive": "❌ | **Səsli söhbət yoxdur!**",
-    "notPlaying": "❌ | **Heç bir musiqi oxumur😒!**",
+    "notPlaying": "❌ | **Heç bir musiqi oxumur!**",
     "playing": "▶️ **[%s](%s)\n⏱ Müddət: `%s`\n💬 Açılır: `%s`\n🎧 Tələb edən: %s**",
     "paused": "⏸ | **Musiqi dayandırıldı!**",
     "resumed": "▶️ | **Musiqi davam etdirildi!**",
@@ -21,5 +21,5 @@
     "queueImported": "✅ | **%d Mahnılar idxal edildi!**",
     "replyToAFile": "👀 | **Müsiqi/Videoya cavab verin!**",
     "addedToQueue": "➕ | **[%s](%s) Vəziyyətində Növbədədir %d**!",
-    "helpText": "🤖 **Mövcud Əmrlər:**\n\n• <prefix>play\n- `İstənilən musiqini ifa edər 🤓 `\n\n• <prefix>stop\n- `Mövcut musiqini dayandırar`\n\n• <prefix>radio\n- `Səsli söhbətdə canlı radio 🤓 `\n\n• <prefix>skip\n- `Növbəti musiqiylə keçid edər `\n\n• <prefix>ping\n- `Botun pingini yoxlayar `\n\n Söhbət Gurupmuz :https://t.me/Cat_House_Gurups**"
-  }
+    "helpText": "🤖 **Mövcut Əmirlər:**\n\n• <prefix>ping\n- `Botun sürətini yoxlayar`\n\n• <prefix>play\n- `İslədiyniz mahnıyı ifa edər`\n\n• <prefix>stop\n- `Mövcut mahnıyı dayandırar`\n\n• <prefix>skip\n- `Növbəti mahnıya keçid edər`\n\n© **💭Söhbət Gurupmuz : @Cat_House_Gurups | ⚕️Support Kanal : @BLACK_MMC | 👨🏻‍💻Owner : @A_l_i_y_e_v_d_i**"
+}
