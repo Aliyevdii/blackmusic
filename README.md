@@ -104,7 +104,7 @@ Command | Description
 ## 🗣 <a name="languages"></a>Languages
 
 ```text
-en    Azərbaycan
+en tr 
 ```
 
 ## 💜 <a name="contribute"></a>Contribute
